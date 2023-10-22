@@ -75,3 +75,7 @@ DerivedDataCache/*
 Content/MaeTakuto/TestMap/TestMap.umap
 Content/MaeTakuto/TestMap/TestMap2.umap
 Content/yamamotokanta/bp_robo_animrtion.uasset
+Content/alpha/alpha_stage1.umap
+Content/alpha/alpha_menu.umap
+Content/MaeTakuto/TestMap/TestTitle.umap
+Content/MaeTakuto/WidgetBP/WBP_Title.uasset
