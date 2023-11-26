@@ -119,9 +119,6 @@ alpha/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
 alpha/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
 alpha/Windows/Engine/Saved/Config/Windows/Manifest.ini
 Content/ItoTatsuhiro/BP/Player/PlayerType.uasset
-Content/wadatomoya/quest/QuestManager.uasset
-Content/wadatomoya/savegame/BP_SaveGame.uasset
-Content/wadatomoya/UI/WBP_MainMenu.uasset
 Content/yamamotokanta/NewAnimBlueprint.uasset
 Content/yamamotokanta/robo_anime_bp.uasset
 Content/yamamotokanta/robo_ataku1_motion.uasset
