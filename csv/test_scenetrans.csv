@@ -1,5 +1,5 @@
----,Quest_Map,Enemy_Count_Location1,Enemy_Count_Location2,Enemy_Count_Location3
-Quest1,1,1,2,3
-Quest2,2,4,5,6
-Quest3,3,7,8,9
-Quest4,4,10,11,12
+---,Quest_Map,Location1_Enemy1,Location1_Enemy2,Location2_Enemy1,Location2_Enemy2,Location3_Enemy1,Location3_Enemy2
+Quest1,1,1,1,2,2,3,3
+Quest2,2,4,3,5,1,6,2
+Quest3,3,6,2,5,3,4,1
+Quest4,4,3,1,2,2,1,3
